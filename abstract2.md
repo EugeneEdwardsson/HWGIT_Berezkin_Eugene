@@ -28,11 +28,3 @@
 # git log --graph 
 ## Ключ -graph в связке с командой log позволяет отобразить коммиты в виде дерева.
 
-
-
-
-ghcvjbk
-ghjknl
-jnklm
-
-bjknl
