@@ -58,3 +58,4 @@ GitHub при создании нового репозитория подска�
 [Как настроить совместную работу](https://www.notion.so/49659caac4414dc2b5ed2cfcf1612798)
 
 [Pull request](https://www.notion.so/Pull-request-fcff3f5dc4a64d4b8f62fc9e46092352)
+
