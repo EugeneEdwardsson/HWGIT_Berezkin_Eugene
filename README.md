@@ -1,4 +1,4 @@
-# HWGIT_Berezkin_Eugene
+### HWGIT_Berezkin_Eugene
 
 My git course notes
 
